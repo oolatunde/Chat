@@ -1,0 +1,24 @@
+
+.chat .messages{
+	border:1px solid #000;
+	width: 250px;
+	height: 210px;
+	padding: 10px;
+	overflow-y: scroll;
+}
+
+.chat .message a{
+	color: aquamarine;
+}
+
+.chat .message p{
+	margin: 5px;
+}
+
+.chat .entry{
+	width: 260px;
+	height: 40px;
+	padding: 5px;
+	margin-top: 5px;
+	font: 1em Arial;
+}
